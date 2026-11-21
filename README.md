@@ -14,5 +14,3 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
-
-printf '\n## Contribution Note\nPlease report documentation typos through a GitHub issue or pull request.\n' >> README.md
